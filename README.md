@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsantape30&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsantape30" /> </p>
 
+- 🔭 I’m currently working on **Problem Solving & Web Dev**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sumitsantape@gmail.com**
