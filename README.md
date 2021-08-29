@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsantape30&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsantape30" /> </p>
 
 
-- 🔭 I’m currently working on sharpening my **Problem Solving & Web Dev skills**
+- 🔭 I’m currently working on sharpening my **Problem Solving skills**
 
 - 🌱 I’m currently learning **MERN Stack**
 
