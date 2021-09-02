@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsantape30&show_icons=true&locale=en&layout=compact" alt="sumitsantape30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsantape30&" alt="sumitsantape30" /></p>
+
+![](https://activity-graph.herokuapp.com/graph?username=sumitsantape30&theme=dracula)
