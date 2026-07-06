@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on sharpening my **Problem Solving skills**
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+- 🌱 I’m currently learning **System Design and Spring AI**
 
 - 📫 How to reach me **sumitsantape@gmail.com**
 
